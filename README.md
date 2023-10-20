@@ -1,7 +1,6 @@
 Maxim Joel Carbonell-Kiamtia
 mjcarbon
-Spring 2021
-Assignment 4 
+
 
 ---------------------
 DESCRIPTION
